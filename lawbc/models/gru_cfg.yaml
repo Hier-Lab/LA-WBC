@@ -1,0 +1,5 @@
+input_dim: 42
+hidden_dim: 96
+num_layers: 1
+head_hidden: 256
+dropout: 0.1

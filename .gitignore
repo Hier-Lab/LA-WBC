@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.egg-info/
+build/
+.vscode/
+.idea/
+
+# Data and generated outputs
+dataset/
+results/
+*.h5
+*.npz

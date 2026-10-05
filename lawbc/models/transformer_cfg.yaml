@@ -1,0 +1,6 @@
+input_dim: 42
+d_model: 64
+nhead: 4
+num_layers: 2
+dim_ff: 96
+dropout: 0.1

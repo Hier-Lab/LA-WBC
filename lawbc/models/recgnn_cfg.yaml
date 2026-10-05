@@ -1,0 +1,7 @@
+emb_dim: 48
+msg_dim: 48
+hidden_mlp: 80
+mp_steps_per_t: 1
+gru_hidden: 48
+gru_layers: 1
+dropout: 0.1
